@@ -24,3 +24,6 @@ https://github.com/gulchintory/team-profile-generator
 
 # Screenshot
 ![screenshot1](./assets/screenshots/SS1.png)
+
+# Video Link
+https://drive.google.com/file/d/1wq2UEah7ofBNT9xLDTcjl_zTtNbJDNwG/view
